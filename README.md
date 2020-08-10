@@ -1,5 +1,7 @@
 # Kubernetes Multi-Cluster Services API
 
+**Moved to [sigs.k8s.io/mcs-api](http://sigs.k8s.io/mcs-api)**
+
 The Multi-Cluster Service API project is being led by [SIG-Multicluster][sig-mc].
 
 This repo hosts the initial implementation according to [KEP-1645][kep] and will
